@@ -36,13 +36,13 @@ cd cranked-ai-chatbot
 
 #### **Frontend**  
 ```sh
-cd frontend
+cd src
 npm install
 ```
 
 #### **Backend**  
 ```sh
-cd backend
+cd cranked
 npm install
 ```
 
