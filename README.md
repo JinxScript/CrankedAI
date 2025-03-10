@@ -4,7 +4,9 @@
 
 ## 🚀 Description  
 Cranked AI Chatbot is a simple AI chatbot built using Next.js for the frontend and Express.js with Socket.io for real-time communication on the backend. 
+
 ## 📸 Screenshot  
+{soon}
 
 ## 🛠️ Tech Stack  
 - **Frontend**: Next.js, Tailwind CSS  
@@ -25,8 +27,40 @@ Cranked AI Chatbot is a simple AI chatbot built using Next.js for the frontend a
 ## 🛠️ Installation  
 
 ### **1️⃣ Clone the Repository**  
-
+```sh
 git clone https://github.com/JinxScript/CrankedAI
-cd cranked
+cd cranked-ai-chatbot
+```
 
+### **2️⃣ Install Dependencies**  
 
+#### **Frontend**  
+```sh
+cd frontend
+npm install
+```
+
+#### **Backend**  
+```sh
+cd backend
+npm install
+```
+
+### **3️⃣ Run the Application**  
+
+#### **Start the Backend Server**  
+```sh
+cd backend
+node server.js
+```
+_Server runs on **http://localhost:3000**_  
+
+#### **Start the Frontend (Next.js App)**  
+```sh
+cd frontend
+npm run dev
+```
+_App runs on **http://localhost:3000**_  
+
+## 👤 Authors  
+- **Omolemo Tshwaolesele** – [GitHub](https://github.com/JinxScript)  
