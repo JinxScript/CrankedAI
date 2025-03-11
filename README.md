@@ -63,4 +63,5 @@ npm run dev
 _App runs on **http://localhost:3000**_  
 
 ## 👤 Authors  
-- **Omolemo Tshwaolesele** – [GitHub](https://github.com/JinxScript)  
+- **Omolemo Tshwaolesele** – [GitHub](https://github.com/JinxScript)
+- **VIBE CODED WITH AI**
